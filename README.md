@@ -56,6 +56,30 @@ I am a passionate **Full Stack Developer** with hands-on experience in building 
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akash-Raj9&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash-Raj9&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Raj9&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Raj9&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Akash-Raj9&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Activity" />
+</p>
+
+---
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Raj-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akash-raj-6b3388284)  
 [![GitHub](https://img.shields.io/badge/GitHub-Akash--Raj9-black?style=for-the-badge&logo=github)](https://github.com/Akash-Raj9)  
