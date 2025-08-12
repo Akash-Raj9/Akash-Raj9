@@ -1,82 +1,87 @@
-# Hi there 👋, I'm Akash Raj
-
-💻 **Full Stack Developer** | 🚀 **Problem Solver** | 🏆 **Competitive Programmer**
-
----
-
-## 🚀 About Me
-I am a passionate **Full Stack Developer** with hands-on experience in building scalable **MERN applications** and strong problem-solving skills in **DSA**. I enjoy crafting clean, efficient code and creating impactful solutions.
+<h1 align="center">🚀 Hey there, I'm <span style="color:#ff4b5c">Akash Raj</span> 👋</h1>
+<h3 align="center">💻 Full Stack Developer | 🚀 Problem Solver | 🏆 Competitive Programmer</h3>
 
 ---
 
-## 🛠️ Skills
+## 🪄 About Me
+✨ Passionate **Full Stack Developer** with expertise in **MERN Stack** & strong **DSA** problem-solving skills.  
+💡 Love building **scalable apps** & solving **real-world problems**.  
+⚡ Believe in writing **clean, maintainable code**.  
+
+---
+
+## 🛠 Skills
 **Languages:** C, C++, JavaScript, Python, PHP  
 **Frameworks/Tools:** Node.js, Express.js, React.js, MongoDB, MySQL, Git, Postman  
 **Concepts:** DSA, OOP, OS, DBMS, Computer Networks, REST APIs, Linux  
 
 ---
 
-## 📚 Education
-🎓 **B.Tech in Computer Science** — IIIT Senapati, Manipur (2022–2026)  
+## 🎓 Education
+🎓 **B.Tech in Computer Science** — IIIT Senapati, Manipur *(2022–2026)*  
 
 ---
 
-## 📌 Projects
+## 🚀 Projects
 
 ### 🍔 [Online Food Ordering Website](https://github.com/Akash-Raj9/FoodieWebapp)
-**Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js)  
-- Secure signup/login with JWT authentication  
-- Dynamic menu browsing, cart management, and order placement  
-- Admin dashboard for CRUD operations and order tracking  
-- Responsive, mobile-friendly, and optimized UI  
+**Stack:** MERN (MongoDB, Express.js, React.js, Node.js)  
+✔ Secure signup/login with JWT  
+✔ Dynamic menu browsing, cart management, and order placement  
+✔ Admin dashboard for CRUD & order tracking  
+✔ Fully responsive, mobile-friendly UI  
 
 ### 🏥 [Hospital Management System](https://github.com/Akash-Raj9/Hospital-Management-System-Project)  
-**Tech Stack:** C Language, File Handling  
-- Manage patient details, billing, appointments, and nurse assignments  
-- File-based data persistence using structured CSV  
-- Role-based access control for secure interactions  
+**Stack:** C, File Handling  
+✔ Patient details, billing, appointment scheduling  
+✔ CSV-based data persistence  
+✔ Role-based access control  
 
 ---
 
 ## 💼 Experience
 
-### **Web Developer Intern** — ApexPlanet *(Apr – May 2025)*  
-- Developed responsive, mobile-first UI components  
-- Improved usability, layout, and accessibility across devices  
+**Web Developer Intern** — ApexPlanet *(Apr – May 2025)*  
+- Built responsive UI components  
+- Improved layout, navigation, and accessibility  
 
-### **Web Developer Intern** — Brainwave Matrix Solutions *(May – Jun 2025)*  
-- Built interactive, responsive websites with optimized performance  
-- Applied UX principles for improved engagement and clarity  
-
----
-
-## 🏆 Achievements
-- 🥇 **Rank 5** — AlgoQuiz 2024 (National-level algorithm & coding competition)  
-- 🏅 **Top Performer** — Graph Camp by AlgoQuiz (Solved 17 advanced graph problems)  
+**Web Developer Intern** — Brainwave Matrix Solutions *(May – Jun 2025)*  
+- Created interactive, responsive websites  
+- Applied UX principles for better engagement  
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🏆 Achievements & Awards
+🏅 **Rank 5** — AlgoQuiz 2024 (National Algorithm Competition)  
+🥇 **Top Performer** — Graph Camp by AlgoQuiz (Solved 17 advanced graph problems)  
+🏆 **GitHub Achievements** —  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Akash-Raj9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akash-Raj9&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Akash-Raj9&label=Profile%20Views&color=ff4b5c&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash-Raj9&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash-Raj9&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Raj9&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Raj9&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Raj9&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Raj9&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Akash-Raj9&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Akash-Raj9&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Activity" />
-</p>
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Akash-Raj9/Akash-Raj9/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -87,4 +92,4 @@ I am a passionate **Full Stack Developer** with hands-on experience in building 
 
 ---
 
-⭐ **"Strive for clean code, scalable systems, and impactful solutions."** ⭐
+🔥 **"Code. Create. Conquer."** 🔥
